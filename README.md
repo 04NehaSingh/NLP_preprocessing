@@ -7,7 +7,11 @@ based in the requirenment of the model. Its said that more then 30% of the effor
 be inversted in datset cleaning 
 
 pre_req: Python 3,
+
          Ananconda , 
+
          pandas -->    0.27,
+
          wordninja --> 0.1.3
+
          nltk -->      3.3
